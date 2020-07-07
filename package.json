@@ -1,0 +1,28 @@
+{
+    "name": "gulpbuilder",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "gulp",
+        "clean": "gulp clean"
+    },
+    "author": "fish_bro",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^6.1.0",
+        "gulp-connect": "^5.7.0",
+        "gulp-file-include": "^2.2.2",
+        "gulp-imagemin": "^5.0.3",
+        "gulp-open": "^3.0.1",
+        "gulp-rigger": "^0.5.8",
+        "gulp-sass": "^4.1.0",
+        "gulp-sourcemaps": "^2.6.5",
+        "gulp-uglify": "^3.0.2",
+        "imagemin-pngquant": "^6.0.1",
+        "node-sass": "^4.14.1",
+        "rimraf": "^2.7.1",
+        "yarn": "^1.22.4"
+    }
+}
