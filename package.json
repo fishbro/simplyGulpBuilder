@@ -21,7 +21,7 @@
         "gulp-sourcemaps": "^2.6.5",
         "gulp-uglify": "^3.0.2",
         "imagemin-pngquant": "^6.0.1",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.0",
         "rimraf": "^2.7.1",
         "yarn": "^1.22.4"
     }
